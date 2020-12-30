@@ -1,4 +1,6 @@
 // Copyright 2010 The Go Authors. All rights reserved.
+// Simple project to get an undurstanding of writting web
+// application using Go langauge.
 
 package main
 
